@@ -1,0 +1,12 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+struct FixedLengthRange {
+    var firstValue: Int
+    let length: Int
+}
+
+var rangeOfThreeItems = FixedLengthRange(firstValue: 0, length: 3)
+
+rangeOfThreeItems.firstValue = 6
