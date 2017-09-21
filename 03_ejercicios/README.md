@@ -1,6 +1,6 @@
 # Swift
 
-Ejercicios de repaso de programación estructurada con Swift para desarrollar usando Playgrounds.
+Ejercicios de programación con Swift, para desarrollar usando Playgrounds.
 
 - [Ejercicio 1 - Área de un triángulo](./01_area_triangulo/).
 - [Ejercicio 2 - Día de la semana](./02_dia_semana/).
