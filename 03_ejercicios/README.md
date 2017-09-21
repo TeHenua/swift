@@ -17,3 +17,8 @@ Ejercicios de repaso de programación estructurada con Swift para desarrollar us
 - [Ejercicio 13 - Buscar mayor y menor](./13_buscar_mayor_menor/).
 - [Ejercicio 14 - Glosario](./14_glosario/).
 - [Ejercicio 15 - Alumnos](./15_alumnos/).
+- [Ejercicio 16 - Robot](./16_robot/).
+- [Ejercicio 17 - Coche](./17_coche/).
+- [Ejercicio 18 - Sonoro](./18_sonoro/).
+- [Ejercicio 19 - Empresas y empleados](./19_empresa_empleado/).
+- [Ejercicio 20 - Cuenta bancaria](./20_cuenta_bancaria/).
