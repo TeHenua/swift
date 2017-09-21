@@ -2,7 +2,7 @@
 
 [![Versión de Swift](https://img.shields.io/badge/swift-4-darkorange.svg)](https://developer.apple.com/swift/)
 
-Este es un repositorio con recursos del [curso para aprender Swift](https://edx.egibide.org/courses/course-v1:Egibide+DAM_Swift+2017). 
+Este es un repositorio con recursos del [curso para aprender Swift](https://edx.egibide.org/courses/course-v1:Egibide+DAM_Swift+2017/about) en edX. 
 
 Este repositorio contiene:
 
