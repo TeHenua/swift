@@ -2,4 +2,10 @@
 
 import UIKit
 
-var str = "Hello, playground"
+let numero = 7
+
+if(numero%2==0){
+    print("\(numero) es par")
+}else{
+    print("\(numero) es impar")
+}
