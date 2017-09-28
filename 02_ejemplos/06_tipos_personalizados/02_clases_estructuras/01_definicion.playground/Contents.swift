@@ -13,3 +13,6 @@ class VideoMode {
     var frameRate = 0.0
     var name: String?
 }
+
+var r = Resolution(width: Int, height: <#T##Int#>)
+var x = VideoMode()
